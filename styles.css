@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.parent{
+	display:flex;
+	align-items:center;
+	justify-content:center
+}
+.container{
+	display : flex;
+	justify-content:center;
+	align-items:center;
+}
+.container div{
+	border : 2px solid black;
+	background-color:lightblue;
+	width:100px;
+	height:100px;
+	color:purple;
+}
+.item{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
