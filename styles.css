@@ -1,13 +1,11 @@
 /*  your css code here. If applicable */
-*{
-	border-top-width: 2px;
-}
 .container{
 	display:flex;
 	position:absolute;
 	justify-content:center;
 	align-items:center;
 	margin:150px;
+	border-top : 2px;
 }
 .item{
 	border : 2px solid black;
