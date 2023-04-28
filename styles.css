@@ -5,7 +5,7 @@
 	justify-content:center;
 	align-items:center;
 	margin:150px;
-	border-top : 2px;
+	border-top:2px solid;
 }
 .item{
 	border : 2px solid black;
