@@ -1,18 +1,16 @@
 /*  your css code here. If applicable */
 .container{
 	display:flex;
-	flex-direction:column;
+	justify-content:center;
 	align-items:center;
-	justify-content:center
-	border-top : 2px;
+	margin:150px;
 }
-.container .item{
+.item{
 	border : 2px solid black;
 	background-color:lightblue;
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	width:100px;
-	height:100px;
+	padding:50px;
 	color:purple;
 }
